@@ -1,0 +1,28 @@
+{
+
+  "manifest_version": 2,
+  "name": "ChooseCourses",
+  "version": "2.0",
+
+  "author": "H4ck1ng.com",
+  
+  "homepage_url": "https://www.h4ck1ng.com",
+
+  "description": "A extension chooses courses automatically in the ZhengFang system.",
+
+  "icons": {
+    "48": "icons/icon_48.png",
+    "96": "icons/icon_96.png"
+  },
+
+  "permissions": [
+    "activeTab",
+    "contextMenus"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/icon_96.png",
+    "default_title": "刷刷刷",
+    "default_popup": "popup/ChooseCourses.html"
+  }
+}

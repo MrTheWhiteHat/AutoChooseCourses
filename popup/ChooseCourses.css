@@ -1,0 +1,91 @@
+
+body {
+	width: 100px;
+	height: 123px;
+	text-align: center;	
+	font-size: 13px;
+	font-weight: bold;
+	background-color: rgba(0, 0, 0, 0.1);
+	color: #FF4500;
+}
+
+.start {
+	width: 100%;
+	height: 20px;
+	cursor: pointer;
+	background-color: #fff;
+	border-radius: 12px;
+	margin: 6px 0 6px 0;
+	box-shadow: 0px 0px 6px 1px #000 inset;
+}
+
+.start:hover {
+	color: #00ff00;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 12px;
+}
+
+.stop {
+	width: 100%;
+	height: 20px;
+	cursor: pointer;
+	background-color: #fff;
+	border-radius: 12px;
+	margin: 6px 0 6px 0;
+	box-shadow: 0px 0px 6px 1px #000 inset;
+}
+
+.stop:hover {
+	color: #00ff00;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 12px;
+}
+
+.reload {
+	width: 100%;
+	height: 20px;
+	cursor: pointer;
+	background-color: #fff;
+	border-radius: 12px;
+	margin: 6px 0 6px 0;
+	box-shadow: 0px 0px 6px 1px #000 inset;
+}
+
+.reload:hover {
+	color: #00ff00;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 12px;
+}
+
+
+.readme {
+	width: 100%;
+	height: 20px;
+	cursor: pointer;
+	background-color: #fff;
+	border-radius: 12px;
+	margin: 6px 0 6px 0;
+	box-shadow: 0px 0px 6px 1px #000 inset;
+}
+
+.readme:hover {
+	color: #00ff00;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 12px;
+}
+
+.aboutme {
+	width: 100%;
+	height: 20px;
+	cursor: pointer;
+	background-color: #fff;
+	border-radius: 12px;
+	margin: 6px 0 6px 0;
+	box-shadow: 0px 0px 6px 1px #000 inset;
+}
+
+.aboutme:hover {
+	color: #00ff00;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 12px;
+}
